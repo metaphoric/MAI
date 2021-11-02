@@ -20,7 +20,5 @@ NumPy
 XCPP
 
 
-[![Open In SageMath](https://www.sagemath.org/pix/logo_sagemath+icon_oldstyle.png)](https://cocalc.com/app?anonymous=sagews&utm_source=sagemath.org&utm_medium=landingpage)
+[<IMG src="https://www.sagemath.org/pix/logo_sagemath+icon_oldstyle.png" width="10%" height="10%">](https://cocalc.com/app?anonymous=sagews&utm_source=sagemath.org&utm_medium=landingpage) SageMath on Cocalc
 
-//[<IMG src="https://www.sagemath.org/pix/logo_sagemath+icon_oldstyle.png" width="10%" height="10%">](https://cocalc.com/app?anonymous=sagews&utm_source=sagemath.org&utm_medium=landingpage)
-https://repository-images.githubusercontent.com/32500369/061f8600-6472-11ea-8839-4d1d1ef6f73e
