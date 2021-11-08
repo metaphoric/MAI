@@ -22,3 +22,4 @@ xeus-cling/notebooks/myxcpp.ipynb
 
 [<IMG src="https://www.sagemath.org/pix/logo_sagemath+icon_oldstyle.png" width="10%" height="10%">](https://cocalc.com/app?anonymous=sagews&utm_source=sagemath.org&utm_medium=landingpage) SageMath on Cocalc
 
+[<IMG src="http://company.wolfram.com/press-center/wolframalpha" width="100%" height="100%">](https://www.wolframalpha.com/) Wolfram Alpha
